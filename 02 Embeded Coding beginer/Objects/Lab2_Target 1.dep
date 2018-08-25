@@ -1,0 +1,2 @@
+Dependencies for Project 'Lab2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Labs2.s)(0x5AAE07B4)(--cpu Cortex-M4 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\ting1\Desktop\과제\임베디드시스템\2\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\Device\ARM\ARMCM4\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 518" --pd "ARMCM4 SETA 1"--list .\listings\labs2.lst --xref -o .\objects\labs2.o --depend .\objects\labs2.d)
